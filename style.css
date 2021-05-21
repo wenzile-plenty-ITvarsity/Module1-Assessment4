@@ -1,0 +1,12 @@
+h2{
+    color: darkslategrey;
+    font-family:inherit;
+    text-align:left;
+}
+th{
+    background-color:#2E85C0; 
+    color:beige;
+    font-weight:800;
+    font-style: oblique;
+    border-style: inherit;
+}
